@@ -1,4 +1,6 @@
 LearnByMaterials
 ================
 
-Your primary learning materials, covering wide technology like web, git, reporting, etc
+Primary, open and free learning materials you may like. 
+
+It covers wide technologies like web, git, coding, reporting, and etc.
