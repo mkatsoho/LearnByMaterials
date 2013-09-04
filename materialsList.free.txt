@@ -1,0 +1,22 @@
+### Description
+The list below gives you the most intuitive education meterails, to help you make self-learning easier. 
+
+Collected by mkatsoho
+michel.yg.chen(at)gmail.com
+
+
+
+### Backlog
+
+Done	 Level		Supported Tech		Education Resource 		Comments
+Y/M/D	 1:hard-4:easy 	py/xml/git/etc
+-------- --------------	-----------------------	-------------------------------	-----------------------------------------
+20120901 L4		Html5/Css/Js/Xslt/Etc	w3schools.com			*u heard terms, but do u know them well? 
+20120901 L4		Html5/Css/Js/Xslt/Etc	w3school.com.cn			*Chinese verison, NOTE school(s) - No S
+20120901 L3		git			gitimmersion.com		*step by step guide of Git (like svn)
+20120901 L3		git			gitimmersion.googol.im		*Chinese version, NOTE goog(ol)
+20120903 L4		git			training.github.com		
+						try.github.io/levels/1/challenges/1	(alternative url)
+			*A must read training for beginner of Github
+			*The pity is only level 1 is free
+
