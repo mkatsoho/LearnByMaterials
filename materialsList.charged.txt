@@ -1,0 +1,17 @@
+### Description
+The list below gives you the most intuitive education meterails, but they are charged.
+
+Collected by mkatsoho
+michel.yg.chen(at)gmail.com
+
+
+
+### Backlog
+
+Done	 Level		Supported Tech		Education Resource 		Comments
+Y/M/D	 1:hard-4:easy 	py/xml/git/etc
+-------- --------------	-----------------------	-------------------------------	-----------------------------------------
+20120903 L4		git/ios/coding series	www.codeschool.com		
+			*A series of primary skills for beginer of coding (not tried yet)
+			*Some level (section) of a class is free (prety good for git)
+
