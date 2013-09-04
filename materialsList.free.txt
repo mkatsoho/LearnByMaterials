@@ -20,8 +20,11 @@ Y/M/D	 1:hard-4:easy 	py/xml/git/etc
 			*A must read training for beginner of Github
 			*The pity is only level 1 is free
 
+<<<<<<< HEAD
 20120904 L3		git			marklodato.github.io/visual-git-guide/index-en.html
 			*PERFECT! Introduce git concepts and commands by charts. 
 20120904 L3		git			marklodato.github.io/visual-git-guide/index-zh-cn.html
 			*Chinese versioin of the above material
 
+=======
+>>>>>>> 49b4fddb6d25c1a8dee1062313386f38637f605d
